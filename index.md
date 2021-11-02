@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 问自己
 
-You can use the [editor on GitHub](https://github.com/shuhu-fe/shuhu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 自己工作了几年，还需要工作多少年？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 自己失去了什么？得到了什么？
 
-### Markdown
+- 自己的缺点？比如沟通少、不够积极主动、被动的做事...如何解决？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 如何走出当前的困境？工作效率低、行动力差、情绪低落、方向不明确...
 
-```markdown
-Syntax highlighted code block
+- 自己幸福么？想要的到底是什么？自由、懒散、无束缚？还是物质、
 
-# Header 1
-## Header 2
-### Header 3
+- 选择一个轻松、收入低的工作，自己能否接受？能否接受平庸 和 未来渺茫？
 
-- Bulleted
-- List
+- 生活的意义是什么？是物质保障？是兴趣爱好？是虚荣？是家庭责任？
 
-1. Numbered
-2. List
+- 是尽力融入？还是逃离，找寻和自身匹配的工作？
 
-**Bold** and _Italic_ and `Code` text
+- 是不是「围城」心态？真正逃离了互联网，会不会想回来？
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuhu-fe/shuhu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 如果逃离了互联网，不考虑能不能做，想做什么？
